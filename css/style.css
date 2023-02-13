@@ -54,3 +54,22 @@
     margin-top: 8px;
     font-family: 'Julee', cursive;
 }
+.imagem1{
+    width: 200px;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+    background-color: #110070;
+    color: white;
+    border: #110070 solid 2px;
+}
+.camisas{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Julee', cursive;
+    
+}
+.imagem1 img{
+    width: 100%;
+}
